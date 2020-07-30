@@ -1,2 +1,2 @@
 # git-github
-repository for learning git
+this is for tutorial purpose.
